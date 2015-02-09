@@ -9,9 +9,9 @@ Email: elenagarrone.dev@gmail.com | Mobile: +44 (0) 7774724218
 Code Examples
 -------------
 
-|[Flicky Notes](https://github.com/karinnielsen/Final-Project-POSTit) | [GitRacer](https://github.com/elenagarrone/gitRacer) |[RPSLS](https://github.com/elenagarrone/RPSLS)|
-| ------------- | ------------ | ------------ |
-| Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop. The mobile is also then used to pick up and move notes on the board using device orientation. Built in Meteor.js.  | A fun little website that tracks Github commits and presents it as a racing game. | A test driven Sinatra website allowing users to play Rock Paper Scissors Lizard Spock. |
+|[Flicky Notes](https://github.com/karinnielsen/Final-Project-POSTit) | [GitRacer](https://github.com/elenagarrone/gitRacer) |[online_marketplace](https://github.com/elenagarrone/online_marketplace)|[RPSLS](https://github.com/elenagarrone/RPSLS)|
+| ------------- | ------------ | ------------ | ------------ |
+| Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop. The mobile is also then used to pick up and move notes on the board using device orientation. Built in Meteor.js.  | A fun little website that tracks Github commits and presents it as a racing game. |A test driven ruby application which simulate an online checkout system. | A test driven Sinatra website allowing users to play Rock Paper Scissors Lizard Spock. |
 
 Web development:
 ----------------
