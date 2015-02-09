@@ -25,7 +25,7 @@ Learned cutting edge coding techniques and best practices from world class devel
 ######Technologies learnt:
 | Strong at | Comfortable with | Touched |
 | ------------ | ----------- | ----------- |
-| Ruby, Javascript, JQuery, CSS, HTML, Sinatra, Ruby on Rails, Ajax, Bootstrap, RSpec, Capybara, Jasmine, Protractor, Object Oriented Programming, version control using Git, Heroku, Datamapper, PostgreSQL, APIs|  Node.js, Meteor, Websockets,  Cucumber, Mocha, Karma| AngularJS, Sass|
+| Ruby, Javascript, JQuery, CSS, HTML, Sinatra, Ruby on Rails, Ajax, Bootstrap, RSpec, Capybara, Jasmine, Protractor, Object Oriented Programming, version control using Git, Heroku, Datamapper, PostgreSQL, APIs|  Node.js, Meteor, Websockets, CoffeeScript, Cucumber, Mocha, Karma| AngularJS, Sass|
 
 Previous education:
 -------------------
