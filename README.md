@@ -23,20 +23,9 @@ Web development:
 Learned cutting edge coding techniques and best practices from world class developers, project-based test-driven work and pair programming.
 
 ######Technologies learnt:
-
-- Ruby | Ruby on Rails
-- Sinatra
-- RSpec, Capybara, Cucumber, Jasmine, Mocha
-- ActiveRecord and Datamapper
-- PostgreSQL
-- Javascript, JQuery, Ajax, Websockets
-- HTML5, CSS3, Bootstrap,
-- APIs including Twilio, Stripe, Mailgun
-- Agile methodologies (TDD, BDD)
-- Object orientated programming
-- Pair programming
-- Version control using Github
-- Heroku
+| Strong at | Comfortable with | Touched |
+| ------------ | ----------- | ----------- |
+| Ruby, Javascript, JQuery, CSS, HTML, Sinatra, Ruby on Rails, Ajax, Bootstrap, RSpec, Capybara, Jasmine, Protractor, Object Oriented Programming, version control using Git, Heroku, Datamapper, PostgreSQL, APIs|  Node.js, Meteor, Websockets,  Cucumber, Mocha, Karma| AngularJS, Sass|
 
 Previous education:
 -------------------
