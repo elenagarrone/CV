@@ -1,5 +1,7 @@
-Elena Garrone (<a href='elenagarrone.pdf'>Download a copy</a>)
+Elena Garrone 
 =============
+<a href='elenagarrone.pdf'>Download a copy of the CV</a>
+
 After spending the past 3 years working as a restaurant supervisor I decided that I needed a big change in my life. I've always been very intrested and passionate about new technologies so I decided to enroll at Makers Academy, on their 12 week intensive web development bootcamp. Even though the course has been very challenging and sometimes frustrating, spending 10-11 hours per day coding, I had a lot of fun. I'm now looking for a developer role which allows me to widen my coding skills possibly in an Agile enviroment.
 
 Email: elenagarrone.dev@gmail.com | Mobile: +44 (0) 7774724218
