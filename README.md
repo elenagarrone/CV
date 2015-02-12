@@ -1,4 +1,4 @@
-Elena Garrone
+Elena Garrone (<a href='elenagarrone.pdf'>Download a copy</a>)
 =============
 After spending the past 3 years working as a restaurant supervisor I decided that I needed a big change in my life. I've always been very intrested and passionate about new technologies so I decided to enroll at Makers Academy, on their 12 week intensive web development bootcamp. Even though the course has been very challenging and sometimes frustrating, spending 10-11 hours per day coding, I had a lot of fun. I'm now looking for a developer role which allows me to widen my coding skills possibly in an Agile enviroment.
 
@@ -25,7 +25,7 @@ Learned cutting edge coding techniques and best practices from world class devel
 ######Technologies learnt:
 | Strong at | Comfortable with | Touched |
 | ------------ | ----------- | ----------- |
-| Ruby, Javascript, JQuery, CSS, HTML, Sinatra, Ruby on Rails, Ajax, Bootstrap, RSpec, Capybara, Jasmine, Protractor, Object Oriented Programming, version control using Git, Heroku, Datamapper, PostgreSQL, APIs|  Node.js, Meteor, Websockets, CoffeeScript, Cucumber, Mocha, Karma| AngularJS, Sass|
+| Ruby, Javascript, JQuery, CSS, HTML, Sinatra, Ruby on Rails, Ajax, Bootstrap, RSpec, Capybara, Jasmine, Protractor, Object Oriented Programming, version control using Git, Heroku, Datamapper, PostgreSQL, APIs|  Node.js, Meteor, Websockets, CoffeeScript, Cucumber, Mocha, Karma| AngularJS, Java, C#, Sass|
 
 Previous education:
 -------------------
